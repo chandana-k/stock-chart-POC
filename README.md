@@ -1,1 +1,1 @@
-# stock-chart-POC
+# stock-chart-poc
